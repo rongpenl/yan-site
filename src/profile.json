@@ -1,0 +1,111 @@
+{
+  "personal": {
+    "name": "Yan Zhao",
+    "first_name": "Yan",
+    "email": "zhao2021@lawnet.ucla.edu",
+    "location": "Los Angeles, California, United States",
+    "phone": "+ (XXX) XXX-XXXX"
+  },
+  "professional": {
+    "title_1": "Associate at Gibson, Dunn & Crutcher LLP",
+    "title_2": "",
+    "techs": "",
+    "main_self_introduction": "I am a litigation associate at Gibson, Dunn & Crutcher LLP.",
+    "top_skills": [
+    ],
+    "languages": [
+      { "percentage": 100, "lang": "English" },
+      { "percentage": 100, "lang": "Mandarin Chinese" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/yan-zhao-law/"
+    },
+    "projects": [
+    ],
+    "experience": [
+      {
+        "organization": "Gibson, Dunn & Crutcher LLP",
+        "title": "Associate",
+        "time": {
+          "start": "September 2021",
+          "end": "Present"
+        },
+        "description": ""
+      },
+      {
+        "organization": "Gibson, Dunn & Crutcher LLP",
+        "title": "Summer Associate",
+        "time": {
+          "start": "June 2020",
+          "end": "July 2020"
+        },
+        "description": ""
+      },
+      {
+        "organization": "Law Offices of Jenny Brandt",
+        "title": "Law Clerk",
+        "time": {
+          "start": "May 2020",
+          "end": "June 2020"
+        },
+        "description": ""
+      },
+      {
+        "organization": "United States District Court, Central District of California",
+        "title": "Judical Extern",
+        "time": {
+          "start": "January 2020",
+          "end": "May 2020"
+        },
+        "description": ""
+      }
+    ],
+    "certificates": [
+      {
+        "organization": "University of California, Los Angeles",
+        "title": "Doctor of Law (JD)",
+        "time": {
+          "start": "",
+          "end": ""
+        },
+        "description": ""
+      },
+      {
+        "organization": "Peking University",
+        "title": "Juris Master",
+        "time": {
+          "start": "",
+          "end": ""
+        },
+        "description": ""
+      },
+      {
+        "organization": "State Bar of California",
+        "title": "California Bar",
+        "time": {
+          "start": "",
+          "end": ""
+        },
+        "description": ""
+      },
+      {
+        "organization": "Ministry of Justice of the People's Republic of China",
+        "title": "Legal Professional Qualification Certificate of the People's Republic of China",
+        "time": {
+          "start": "",
+          "end": ""
+        },
+        "description": ""
+      }
+    ],
+    "volunteering":[
+        "Legal Volunteer at Guardians of the Angeles Charitable Foundation"
+    ]
+  },
+
+  "page_elements": {
+    "greetings": "Hello,",
+    "navigation_button": "Learn More",
+    "contact_message": ""
+  }
+}
